@@ -1,0 +1,1 @@
+[05-Jan-2017 20:49:12 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'p5g2n8w2_admin'@'localhost' (using password: YES) in /home4/p5g2n8w2/public_html/php/server/cF65UGyxUnBLaZonED6rxX6JKMcaRCAnEtR5rNBGa4tupPence/dbcon.php on line 7

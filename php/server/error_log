@@ -1,0 +1,61 @@
+[18-Dec-2016 15:54:56 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::fetch_array() in /home1/kevin/public_html/php/server/livesearch.php on line 19
+[18-Dec-2016 15:59:15 America/Chicago] PHP Fatal error:  Call to a member function prepare() on null in /home1/kevin/public_html/php/server/livesearch.php on line 18
+[18-Dec-2016 15:59:39 America/Chicago] PHP Fatal error:  Call to a member function prepare() on null in /home1/kevin/public_html/php/server/livesearch.php on line 18
+[18-Dec-2016 16:02:04 America/Chicago] PHP Fatal error:  Call to undefined function prepare() in /home1/kevin/public_html/php/server/livesearch.php on line 16
+[18-Dec-2016 16:02:35 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_result() in /home1/kevin/public_html/php/server/livesearch.php on line 22
+[18-Dec-2016 16:03:43 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_result() in /home1/kevin/public_html/php/server/livesearch.php on line 24
+[18-Dec-2016 16:03:43 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_result() in /home1/kevin/public_html/php/server/livesearch.php on line 24
+[18-Dec-2016 16:04:10 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::bind_result() in /home1/kevin/public_html/php/server/livesearch.php on line 24
+[18-Dec-2016 16:05:24 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::close() in /home1/kevin/public_html/php/server/livesearch.php on line 31
+[18-Dec-2016 16:05:59 America/Chicago] PHP Fatal error:  Call to a member function close() on null in /home1/kevin/public_html/php/server/livesearch.php on line 33
+[18-Dec-2016 16:07:23 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home1/kevin/public_html/php/server/livesearch.php on line 27
+[18-Dec-2016 16:11:09 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/kevin/public_html/php/server/livesearch.php on line 18
+[18-Dec-2016 16:11:09 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/kevin/public_html/php/server/livesearch.php on line 18
+[18-Dec-2016 16:11:10 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/kevin/public_html/php/server/livesearch.php on line 18
+[18-Dec-2016 16:11:10 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/kevin/public_html/php/server/livesearch.php on line 18
+[18-Dec-2016 16:11:10 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/kevin/public_html/php/server/livesearch.php on line 18
+[18-Dec-2016 16:11:11 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/kevin/public_html/php/server/livesearch.php on line 18
+[18-Dec-2016 16:11:33 America/Chicago] PHP Fatal error:  Cannot use try without catch or finally in /home1/kevin/public_html/php/server/livesearch.php on line 34
+[18-Dec-2016 16:11:33 America/Chicago] PHP Fatal error:  Cannot use try without catch or finally in /home1/kevin/public_html/php/server/livesearch.php on line 34
+[18-Dec-2016 16:11:34 America/Chicago] PHP Fatal error:  Cannot use try without catch or finally in /home1/kevin/public_html/php/server/livesearch.php on line 34
+[18-Dec-2016 16:14:28 America/Chicago] PHP Fatal error:  Cannot use try without catch or finally in /home1/kevin/public_html/php/server/livesearch.php on line 42
+[18-Dec-2016 16:14:29 America/Chicago] PHP Fatal error:  Cannot use try without catch or finally in /home1/kevin/public_html/php/server/livesearch.php on line 42
+[18-Dec-2016 16:14:30 America/Chicago] PHP Fatal error:  Cannot use try without catch or finally in /home1/kevin/public_html/php/server/livesearch.php on line 42
+[18-Dec-2016 16:14:30 America/Chicago] PHP Fatal error:  Cannot use try without catch or finally in /home1/kevin/public_html/php/server/livesearch.php on line 42
+[18-Dec-2016 16:14:30 America/Chicago] PHP Fatal error:  Cannot use try without catch or finally in /home1/kevin/public_html/php/server/livesearch.php on line 42
+[18-Dec-2016 16:14:31 America/Chicago] PHP Fatal error:  Cannot use try without catch or finally in /home1/kevin/public_html/php/server/livesearch.php on line 42
+[18-Dec-2016 16:14:37 America/Chicago] PHP Fatal error:  Cannot use try without catch or finally in /home1/kevin/public_html/php/server/livesearch.php on line 42
+[18-Dec-2016 16:14:38 America/Chicago] PHP Fatal error:  Cannot use try without catch or finally in /home1/kevin/public_html/php/server/livesearch.php on line 42
+[18-Dec-2016 16:15:30 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::result_metadata() in /home1/kevin/public_html/php/server/livesearch.php on line 21
+[18-Dec-2016 16:15:52 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::result_metadata() in /home1/kevin/public_html/php/server/livesearch.php on line 21
+[18-Dec-2016 16:15:57 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::result_metadata() in /home1/kevin/public_html/php/server/livesearch.php on line 21
+[18-Dec-2016 16:15:58 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::result_metadata() in /home1/kevin/public_html/php/server/livesearch.php on line 21
+[18-Dec-2016 16:15:58 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::result_metadata() in /home1/kevin/public_html/php/server/livesearch.php on line 21
+[18-Dec-2016 16:15:59 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::result_metadata() in /home1/kevin/public_html/php/server/livesearch.php on line 21
+[18-Dec-2016 16:16:11 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::result_metadata() in /home1/kevin/public_html/php/server/livesearch.php on line 21
+[18-Dec-2016 16:16:11 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::result_metadata() in /home1/kevin/public_html/php/server/livesearch.php on line 21
+[18-Dec-2016 16:16:13 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::result_metadata() in /home1/kevin/public_html/php/server/livesearch.php on line 21
+[18-Dec-2016 16:16:13 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::result_metadata() in /home1/kevin/public_html/php/server/livesearch.php on line 21
+[18-Dec-2016 16:16:13 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::result_metadata() in /home1/kevin/public_html/php/server/livesearch.php on line 21
+[18-Dec-2016 16:16:53 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home1/kevin/public_html/php/server/livesearch.php on line 27
+[18-Dec-2016 16:20:27 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home1/kevin/public_html/php/server/cF65UGyxUnBLaZonED6rxX6JKMcaRCAnEtR5rNBGa4tupPence/dbcon.php on line 7
+[18-Dec-2016 16:20:27 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home1/kevin/public_html/php/server/cF65UGyxUnBLaZonED6rxX6JKMcaRCAnEtR5rNBGa4tupPence/dbcon.php on line 7
+[18-Dec-2016 16:20:27 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home1/kevin/public_html/php/server/cF65UGyxUnBLaZonED6rxX6JKMcaRCAnEtR5rNBGa4tupPence/dbcon.php on line 7
+[18-Dec-2016 16:21:32 America/Chicago] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, string given in /home1/kevin/public_html/php/server/livesearch.php on line 23
+[18-Dec-2016 16:21:32 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, string given in /home1/kevin/public_html/php/server/livesearch.php on line 41
+[18-Dec-2016 16:21:32 America/Chicago] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, string given in /home1/kevin/public_html/php/server/livesearch.php on line 23
+[18-Dec-2016 16:21:32 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, string given in /home1/kevin/public_html/php/server/livesearch.php on line 41
+[18-Dec-2016 16:24:03 America/Chicago] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home1/kevin/public_html/php/server/livesearch.php on line 29
+[18-Dec-2016 16:25:41 America/Chicago] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home1/kevin/public_html/php/server/livesearch.php on line 29
+[18-Dec-2016 16:25:41 America/Chicago] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home1/kevin/public_html/php/server/livesearch.php on line 29
+[18-Dec-2016 16:41:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'tblResults' (T_STRING) in /home1/kevin/public_html/php/server/livesearch.php on line 43
+[18-Dec-2016 16:41:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'tblResults' (T_STRING) in /home1/kevin/public_html/php/server/livesearch.php on line 43
+[18-Dec-2016 16:42:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/kevin/public_html/php/server/livesearch.php on line 52
+[18-Dec-2016 16:42:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/kevin/public_html/php/server/livesearch.php on line 52
+[18-Dec-2016 16:51:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/kevin/public_html/php/server/livesearch.php on line 56
+[18-Dec-2016 16:51:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/kevin/public_html/php/server/livesearch.php on line 56
+[19-Dec-2016 11:45:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home1/kevin/public_html/php/server/upsong1201.php on line 10
+[19-Dec-2016 11:46:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/kevin/public_html/php/server/upsong1201.php on line 21
+[20-Dec-2016 20:44:50 America/Chicago] PHP Fatal error:  Call to undefined function stmt_bind_assoc() in /home1/kevin/public_html/php/server/upsong1201.php on line 31
+[26-Dec-2016 23:13:57 America/Chicago] PHP Fatal error:  Call to undefined function redirect() in /home1/kevin/public_html/php/server/report.php on line 59
+[05-Jan-2017 21:02:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/p5g2n8w2/public_html/php/server/report.php on line 119

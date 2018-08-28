@@ -1,0 +1,7 @@
+body{
+     padding:0px;
+     margin: 0px;
+     animation: backgroundScroll 20s linear infinite;
+    background-image: url(../404/img/back.png);
+    background-repeat: repeat-y;
+}

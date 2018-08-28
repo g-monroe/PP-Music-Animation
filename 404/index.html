@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <link rel="icon" type="image/png" href="http://musicani.me/img/icon.png">
+        <title>Musicani - Listen. Watch. Enjoy.</title>
+        <style>
+            body{
+                padding:0px;
+                margin: 0px;
+                background-color:#0F0F0F;
+                background-image: url(../404/img/back2.png);
+                background-repeat: repeat;
+            }
+            #background{
+                padding:0px;
+                margin: 0px;
+                animation: backgroundScroll 30s linear infinite;
+                background-image: url(../404/img/back.png);
+                background-repeat: repeat-x;
+                height:9.2vw;
+                text-align: center;
+                z-index: 2;
+            }
+            @keyframes backgroundScroll {
+                from {background-position: 0 0;}  
+                to {background-position: -200px 0px;}  
+            }
+            h1{
+                 padding:0px;
+                margin: 0px;
+                color:dodgerblue;
+                font-family:"Arial";
+                font-size:8vw;
+            }
+            #main{
+                height:100%;
+                background-image: url(../404/img/back2.png);
+                background-repeat: repeat;
+                width:100%;
+                z-index: 4;
+                border-top: 2px solid dodgerblue;
+                margin-top:-4px;
+            }
+            #main img{
+                margin-top: 4vh;
+                height:35vw;
+                max-height:280px;
+                margin-left: 30%;
+                box-shadow: 0 10px 14px 0 rgba(0, 0, 0, 0.2), 0 12px 26px 0 rgba(0, 0, 0, 0.19);
+            }
+            #girl{
+                margin-top:;
+                height: 5%;
+                z-index: 0;
+                margin-top:-14px;
+            }
+            #girl img{
+                 height:9.2vw;
+                margin-top:-9.2vw;
+                margin-left: 56%;
+            }
+            .white{
+                color:white;
+            }
+            .centertext{
+                text-align: center;
+            }
+            .arial{
+                font-family:"Arial";
+            }
+            .fontfit{
+                font-size:3vw;
+            }
+            button{
+                border:none;
+                border-radius: 40px;
+                font-weight: bold;
+                color:white;
+                background-color:dodgerblue;
+                height:40px;
+                height:6vw;
+                padding:1.0vh;
+                max-height: 50px;
+                max-width: 300px;
+                padding-bottom:20px;
+                font-family:"Arial";
+                font-size:3vw;
+                text-align: center;
+                margin-left: 30%;
+                width:35vw;
+                cursor:pointer;
+                box-shadow: 0 10px 14px 0 rgba(0, 0, 0, 0.2), 0 12px 26px 0 rgba(0, 0, 0, 0.19);
+            }
+           @media all and (min-width: 860px) {
+                button{
+                    font-size: 24px;
+                    padding:13px;
+                     display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+               }
+               #details h1{
+                 font-size:   62px;
+                   text-align: center;
+               }
+               h3{
+                   font-size: 24px;
+                   text-align: center;
+               }
+               #main img{
+                    display: block;
+    margin-left: auto;
+    margin-right: auto;
+               }
+            }
+        </style>
+    </head>
+    
+    <body>
+        <div id="background"><h1>404</h1></div>
+        <div id="girl"><img src="/404/img/error.png"></div>
+        <div id="main"><img src="/404/img/error.gif"></div>
+        <div id="details"><h1 class="white centertext">We're sorry...</h1><h3 class="white centertext arial fontfit">The page your looking for doesn't exist.</h3></div>
+        <div id="home"><button onclick="window.location.href='http://musicani.me'"> Home </button></div>
+        <div id="empty-space"><br><br><br><br></div>
+    </body>
+    
+</html>

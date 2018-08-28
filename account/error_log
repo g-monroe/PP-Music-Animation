@@ -1,0 +1,22 @@
+[22-Dec-2016 19:38:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'g' (T_STRING) in /home1/kevin/public_html/account/register.php on line 55
+[22-Dec-2016 22:44:10 America/Chicago] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=Put your secret key here&amp;response=03AHJ_VuuyCWZQqSBYzRfIX8417QduQDC7XRmITl1MftTQ2xFvFjguz_dCDqhBAFE_nFHeEJh0fDNHKaen0lGefjp1clPApxr_C5Lj4IKECTncJtduN3S5o-2z0JOaS5IwI5mYpVVmIZxKkoukvg_jXObEpgpEBN9Ekk4uRm2MVVAjfSJAT_lbF528xXAAFq3-TuybBHlP_JzGDrtNiuIPXfeEQu5fIo0mbzSfXEC6mtalXTKDiQ70MsB9l_ocKYjItND9Gk22vugNt7A3STt7JBkYyjwNei809agM0l8nvzd2xaiPQNHRguV-LJV7Fb5josWlXXnzzDthoeN1fDZUGxLq3NSbPpUHoebt7xVcytHl4rfx7tmoZTHr41m5SmhKbXIJQ-dUQqzAicZRdRGqmHxBkfTr6gBgCOufpX7V81hPJ6Sp8QqicVwbnQ7MQD0QUcbJ-KbVZifh0Vf2kLPZKOmx-o7azDazQ_KeNkutjw6modN1V3DoYxcum1RO0JLad-qB2212aD9oNCqO3wjalmLHpr3SIFYHaLhxEObIJLehYfSqqxiQ_3hOvCCKqpfGdexKQHANQKSGjLfxhrKpkMSXNlOIgbvVVLHuukJzSvqyMaQWfI3oJ2nXoYhWwnbeVwhSM0wizFh8Qt9y06lisV-Cf5SDaIbwzmwuE-saoPBgN2ja0e8smqLbsbprq0CHDNYpRMtZnF3xpr-7oG1pTrJNcVdSGkbqHjRbarI_rWqym1HnNOs-4G9aSh5XH-Tw8xi1OV7Y4YmajqjJ2yaLRh8F46dJdcm1TuOEO653gMDKRUWQ9JUDYuAXjYvcnVT2R7nrY2mqhH_hyqAInRNalYJmhLjs4HSJbEvk1PBRlHabp6pd8KGryfvpHZzQRkMQJOpnOYHNyI2N&am in /home1/kevin/public_html/account/reg.php on line 20
+[22-Dec-2016 23:21:49 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/kevin/public_html/account/reg.php on line 17
+[22-Dec-2016 23:24:59 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/kevin/public_html/account/reg.php on line 17
+[22-Dec-2016 23:26:46 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/kevin/public_html/account/reg.php on line 17
+[22-Dec-2016 23:31:19 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/kevin/public_html/account/reg.php on line 17
+[22-Dec-2016 23:31:55 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/kevin/public_html/account/reg.php on line 17
+[22-Dec-2016 23:32:56 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/kevin/public_html/account/reg.php on line 17
+[22-Dec-2016 23:48:20 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/kevin/public_html/account/reg.php on line 19
+[22-Dec-2016 23:50:28 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/kevin/public_html/account/reg.php on line 19
+[23-Dec-2016 18:08:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home1/kevin/public_html/account/register.php on line 35
+[23-Dec-2016 18:09:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home1/kevin/public_html/account/register.php on line 35
+[23-Dec-2016 18:12:31 America/Chicago] PHP Fatal error:  Call to undefined function redirect() in /home1/kevin/public_html/account/reg.php on line 39
+[25-Dec-2016 17:26:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in /home1/kevin/public_html/account/log.php on line 80
+[25-Dec-2016 17:45:54 America/Chicago] PHP Fatal error:  Call to a member function prepare() on null in /home1/kevin/public_html/account/index.php on line 21
+[25-Dec-2016 17:46:46 America/Chicago] PHP Warning:  require_once(cF65UGyxUnBLaZonED6rxX6JKMcaRCAnEtR5rNBGa4tupPence/dbcon.php): failed to open stream: No such file or directory in /home1/kevin/public_html/account/index.php on line 3
+[25-Dec-2016 17:46:46 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'cF65UGyxUnBLaZonED6rxX6JKMcaRCAnEtR5rNBGa4tupPence/dbcon.php' (include_path='.:/opt/php56/lib/php') in /home1/kevin/public_html/account/index.php on line 3
+[26-Dec-2016 23:27:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/kevin/public_html/account/index.php on line 172
+[26-Dec-2016 23:27:46 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/kevin/public_html/account/index.php on line 173
+[26-Dec-2016 23:29:13 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/kevin/public_html/account/index.php on line 172
+[26-Dec-2016 23:30:04 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/kevin/public_html/account/index.php on line 158
+[26-Dec-2016 23:42:48 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/kevin/public_html/account/logout.php on line 6

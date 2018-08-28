@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<!-- Notes:
+    This is a page made by:
+        Gavin Monroe.
+    Designed for:
+        Gavin Monroe.
+    In Partnership with:
+        Oroenm Inc.
+    Development Started:
+        11/12/16
+End of Notes -->
+
+<html>
+
+    <head lang="en-US">
+    
+        <link href="css/main.css" type="text/css" rel="stylesheet"/>
+        <script src="js/main.js" type="text/javascript" language="javascript"></script>
+        <!-- Compiled and minified CSS -->
+        <link rel="stylesheet" href="css/materialize.css">
+
+        <!-- Compiled and minified JavaScript -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+        <noscript>
+            <p>Page Reqiures JavaScript.</p>
+        </noscript>
+    </head>
+
+    <body>
+        <!--Logo
+        <div id="Logo">
+            <img id="imgLogo" src="img/logos/Logo15.png"/>
+        </div>-->
+        
+        <div id="Center">
+          <div id="Panel" class="card white darken-1">
+            <div id="PanelTitle" class="card-content black-text">
+              <span class="card-title">GDI+ Group Access Request</span>
+            <input placeholder="Username" id="username" type="email" class="lightTheme">
+            <input placeholder="HF ID" id="hfid" type="password" class="lightTheme">
+                <div class="row">
+                    <form class="col s12">
+                    <div class="row">
+                    <div class="input-field col s12">
+                            <textarea placeholder="Reason(25 to 255 Charaters)" id="reason" class="materialize-textarea"></textarea>
+                    </div>
+                    </div>
+                    </form>
+                </div>
+               <!-- <a id="forgotp" href="#">Forgot Password?</a>-->
+            <div class="card-action">
+              <a id="Login" onclick="post();" class="waves-effect blue waves-light btn">Send Request Offer</a>
+                <a id="Login" href="http://www.strawpoll.me/11876615" class="waves-effect black waves-light btn">Vote</a>
+            <!--  <a id="Register" class="waves-effect black waves-light btn">Register</a>-->
+            </div>
+      </div>
+        </div>
+        
+        <!--Bottom-->
+        <div id="Bottom">
+            <p id="CopyRightText">&copy; 2016 Oroenm, Inc</p>
+            <div id="ThemeSelector">
+                <a onClick="themeDark();" href="#" class="DarkButton"></a>
+                <a onClick="themeWhite();" href="#" class="LightButton"></a>
+            </div>
+        </div>
+    </body>
+
+</html>

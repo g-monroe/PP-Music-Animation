@@ -1,0 +1,302 @@
+body{
+    padding:0px;
+    margin:0px;
+     background-color:#0F0F0F;
+    background-image: url(../img/back2.png);
+    background-repeat: repeat;
+}
+.upper{
+    text-transform: uppercase;
+}
+#searchdiv{
+    display: block;
+    margin: 0 auto; 
+    border-radius:20px;
+    background-color:dimgray;
+    position:absolute;
+    top:36%;
+  width:47%;
+    padding: 20px;
+    margin-left:25.5%;
+}
+#banner{
+    width:50%;
+    margin-top: 50px;
+    display:block;
+    margin-left:25%;
+    box-shadow: 0px 3px 5px 0px #000;
+}
+
+#searchbox{
+    display: block;
+    border-color:transparent;
+    border-radius:10px;
+    background-color:white;
+    width:95%;
+    font-size:2vw;
+    padding: 20px;
+}
+#don{
+     position: fixed;
+    bottom: 0;
+    right: 0;
+    float:right;
+}
+#resultsdiv{
+    position:fixed;
+    background-color:#141414;
+    top: 50%;
+      margin-left:25.5%;
+    width:50%;
+    z-index: 4;
+}
+#tblResults{
+    width:100%;
+}
+a:visited{
+    color:white;
+}
+#imgrow{
+    width:15%;
+    text-align:center;
+    padding:5px;
+}
+#listname{
+    color:white;
+    font-family: sans-serif;
+    font-size:14px;
+}
+#listname a:link{
+    color:white;
+    font-family: sans-serif;
+    font-size:14px;
+}
+
+#posterimg{
+    width: 60px;
+    display: block;
+    margin: 0 auto; 
+}
+#namerow{
+    width:80%;
+    color:white;
+    text-align:center;
+}
+.dodge{
+    color:dodgerblue;
+}
+.arial{
+    font-family: "Arial";
+}
+.bold{
+    font-weight: bold;
+}
+.white{
+    color:white;
+    text-decoration: none;
+}
+#logo{
+    text-transform: uppercase;
+    color:white;
+    text-decoration: none;
+    display:inline-flex;
+    padding:10px;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-size:14px;
+    float:left;
+}
+.right{
+    float:right;
+    
+}
+.navbarcenter{
+    margin-top: 18px;
+    margin-right: 5px;
+}
+#formlogo{
+    text-transform: uppercase;
+    color:white;
+    text-decoration: none;
+    display:inline-flex;
+    padding:10px;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-size:14px;
+    border:1px solid black;
+    background-color:#141414;
+    float:left;
+    width:30%;
+}
+#main{
+    margin:0 auto;
+    margin-top:100px;
+    width:50%;
+    box-shadow: 0px 3px 5px 0px #000;
+}
+
+.hid{
+    visibility: hidden;
+}
+.vis{
+    visibility: visible;
+}
+#reportlist th{
+    width:33%;
+}
+#trash-icon{
+    background-image: url("../img/trash.png");
+    width: 20px;
+    height: 20px;
+}
+#del{
+     background-color: dodgerblue;
+    color: white;
+    font-family: "Arial";
+    border: none;
+    padding:5px;
+    text-decoration-line: none;
+    text-decoration: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#register{
+    padding:10px;
+    border:1px solid #000;
+    color:white;
+    font-family: 'Arial';
+    background-color: #141414;
+    z-index:5;
+    margin-top:10px;
+    cursor: pointer;
+}
+#msgcaption{
+    background-color:aliceblue;
+    border-bottom: 1px solid lightskyblue;
+    color:#141414;
+    text-align:center;
+}
+#tblform{
+    margin-left:3%;
+    margin-right:3%;
+    width:100%;
+}
+
+#tblform #lbl{
+    width:30%;
+}
+#tblform #input{
+    width:70%;
+}
+#mainContainer{
+    background-color: #343434;
+    margin-top:-18px;
+        border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000
+}
+#mainContainer label{
+    display:inline;
+    text-align: right;
+    float: left;
+    padding-top: 7px;
+    margin-right: 25px;
+}
+.tb{
+    display:block;
+     padding-top:5px;
+    padding-bottom:5px;
+    margin-top:15px;
+    margin-bottom:15px;
+    width:90%;
+    border-radius: 4px;
+    border: 1px solid #242424;
+}
+#main h3{
+     border:1px solid black;
+    background-color:#141414;
+    width:70%;
+    margin-left:30%;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Arial";
+    color:white;
+   padding-top: 17px;
+    padding-bottom: 17px;
+}
+#menlist{
+    width:100%;
+}
+#thumb{
+    width:50%;
+    padding:5px;
+    border: 1px solid #242424;
+    box-shadow: 0 4px 4px -2px #000000;
+}
+#ytname{
+    text-align:left;
+    color:white;
+    font-family: "Arial";
+    width:50%;
+}
+#btns{
+    width:20%;
+}
+.line{
+    display:table-cell;
+}
+.listnone{
+    list-style: none;
+}
+#navBar{
+    background-color: #141414;
+    position: fixed;
+    -webkit-box-shadow: 0 4px 4px -2px #000000;
+   -moz-box-shadow: 0 4px 4px -2px #000000;
+    box-shadow: 0 4px 4px -2px #000000;
+    width:100%;
+    z-index:1;
+    top:0%
+}
+
+#topNav{
+    display:block;
+}
+#topNav li{
+    margin-top:18px;
+    display: inline;
+    margin-left: 10px;
+}
+#navsearch{
+    background-color:#141414;
+    border-style: none;
+    border-bottom:1px solid white;
+}
+#navsearch:focus{
+    border-style: none;
+      border-bottom:1px solid white;
+}
+::selection {
+  background: #141414; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #141414; /* Gecko Browsers */
+}
+.navicon-cat{
+    background-image: url("../img/anime.png");
+    width:16px;
+    height:16px;
+    background-position: center center;
+  background-repeat: no-repeat;
+    border:none;
+    color: #141414;;
+}
+.navicon-search{
+    background-image: url("../img/search.png");
+    width:16px;
+    height:16px;
+    background-position: center center;
+  background-repeat: no-repeat;
+    border:none;
+    color: #141414;;
+}
